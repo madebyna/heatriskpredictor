@@ -10,11 +10,6 @@
   "theme_color": "#0F172A",
   "icons": [
     {
-      "src": "/favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml"
-    },
-    {
       "src": "/LargeTile.scale-100.png.192x192.png",
       "sizes": "192x192",
       "type": "image/png",
