@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "projectId": "prj_QDro6DtnTCYkzJnhmKfI36r4qerl",
+  "orgId": "team_rkJpmo9n5a1X7CYLt6jzX188",
+  "projectName": "heat-risk-predictor",
+  "settings": {
+    "framework": "vite",
+    "outputDirectory": "dist"
+  }
+}
